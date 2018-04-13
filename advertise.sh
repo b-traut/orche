@@ -3,7 +3,6 @@
 function access(){
 
     curl $1
-    exit 0
 
 } 
 
